@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginWithSQL</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password1">Conform Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_up">Sing Up</string>
+</resources>
